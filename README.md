@@ -20,25 +20,6 @@ Here's a quick overview of my skill set:
 - **Tools & IDEs:** Git, VS Code, PyCharm, Postman
 - **Languages:** Python, C++, C
 
----
-
-### 📈 GitHub Stats
-
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&theme=radical)
-
----
-
-### 🚀 Featured Projects
-
-#### [Project Name 1](https://github.com/yourusername/projectname1)
-📝 Description: Brief description of the project  
-🔧 **Tech Used:** Python, Django, MySQL  
-🌟 **Highlights:** Include any unique features, challenges solved, or skills demonstrated.
-
-#### [Project Name 2](https://github.com/yourusername/projectname2)
-📝 Description: Brief description of the project  
-🔧 **Tech Used:** React, REST API, Bootstrap  
-🌟 **Highlights:** Mention noteworthy aspects that demonstrate your abilities.
 
 You can check out more of my projects [here](https://github.com/yourusername?tab=repositories).
 
@@ -48,6 +29,6 @@ You can check out more of my projects [here](https://github.com/yourusername?tab
 
 - **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 - **Portfolio:** [yourportfolio.com](https://yourportfolio.com)  
-- **YouTube (for project videos):** [My YouTube Channel](https://www.youtube.com/channel/yourchannel)
+
 
 Let's connect and build something amazing together! 😊
