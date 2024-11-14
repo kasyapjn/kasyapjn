@@ -28,7 +28,7 @@ You can check out more of my projects [here](https://github.com/yourusername?tab
 ### 📫 Let's Connect
 
 - **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Portfolio:** [yourportfolio.com](react-portfolio-kasyap.vercel.app)  
+- **Portfolio:** [yourportfolio.com]([react-portfolio-kasyap.vercel.app](https://react-portfolio-kasyap-y6i9.vercel.app/))  
 
 
 Let's connect and build something amazing together! 😊
