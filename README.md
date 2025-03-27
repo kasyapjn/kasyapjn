@@ -1,6 +1,6 @@
 # Hi there, I'm KASYAP JAYAN 👋
 
-![Python Full Stack Developer](https://img.shields.io/badge/Python-FullStackDeveloper-blue) ![MCA Student](https://img.shields.io/badge/MCA-Student-lightgrey)![RPA Developer Badge](https://img.shields.io/badge/RPA-Developer-blue)
+![Python Full Stack Developer](https://img.shields.io/badge/Python-FullStackDeveloper-blue) ![MCA Student](https://img.shields.io/badge/MCA-Student-lightgrey) ![RPA Developer Badge](https://img.shields.io/badge/RPA-Developer-blue)
 
 
 ### 🌐 About Me
