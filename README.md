@@ -18,7 +18,7 @@ Here's a quick overview of my skill set:
 - **Frontend:** HTML, CSS, JavaScript, React, Bootstrap
 - **Backend:** Python, Django, REST APIs
 - **Database:** MySQL, SQL
-- **Tools & IDEs:** Git, VS Code, PyCharm, Postman
+- **Tools & IDEs:** Git, VS Code, PyCharm, Postman ,UiPath
 - **Languages:** Python, C++, C
 
 
